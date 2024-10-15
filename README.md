@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Ashutosh+Srivastava+)](https://git.io/typing-svg)
+
+- 🔭 I’m currently working on the first principles study of electronic and thermal transport.
 <!--
 **ashutoshsriv/ashutoshsriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
