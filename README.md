@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Ashutosh+Srivastava+)](https://git.io/typing-svg)
 ## I'm a computational materials scientist dedicated to solving real-world challenges.
 
