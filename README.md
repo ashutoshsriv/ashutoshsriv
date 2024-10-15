@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Ashutosh+Srivastava+)](https://git.io/typing-svg)
+## I'm a computational materials scientist dedicated to solving real-world challenges.
 
 - 🔭 I’m currently working on the **first-principles study of electronic and thermal transport**.
 - 🌱 I’m currently learning **High-throughput and Machine learning approaches for materials discovery**.
