@@ -8,6 +8,7 @@
 - ⚡ Fun fact: **Materials are everywhere; you just need to look around**.
 
 ## Blog posts
+# Connect with me:
 <!--
 **ashutoshsriv/ashutoshsriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
