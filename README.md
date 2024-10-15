@@ -8,7 +8,7 @@
 - ⚡ Fun fact: **Materials are everywhere; you just need to look around**.
 
 ## Blog posts
-Checkout latest updates on https://ashutoshsrivastava98.wixsite.com/ashutosh-srivastava/blog 
+Checkout latest updates- https://ashutoshsrivastava98.wixsite.com/ashutosh-srivastava/blog 
 ### Connect with me:
 ### Languages and Tools:
 <!--
