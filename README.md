@@ -10,7 +10,7 @@
 ## Blog posts
 Checkout latest updates- https://ashutoshsrivastava98.wixsite.com/ashutosh-srivastava/blog 
 ### Research Publications:
-1. Decoupled atomic contribution boosted high thermoelectric performance in mixed cation spinel oxides ACo<sub>2 O<sub>4, _Appl. Phys. Lett., 120, 243901 (2022)_
+1. Decoupled atomic contribution boosted high thermoelectric performance in mixed cation spinel oxides ACo<sub>2</sub>O<sub>4</sub>, _Appl. Phys. Lett., 120, 243901 (2022)_
 ### Languages and Tools:
 <!--
 **ashutoshsriv/ashutoshsriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
