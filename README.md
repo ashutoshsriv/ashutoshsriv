@@ -10,7 +10,8 @@
 ## Blog posts
 Checkout latest updates- https://ashutoshsrivastava98.wixsite.com/ashutosh-srivastava/blog 
 ### Research Publications:
-1. Decoupled atomic contribution boosted high thermoelectric performance in mixed cation spinel oxides ACo<sub>2</sub>O<sub>4</sub>,<a href="https://doi.org/10.1063/5.0099452/">_Appl. Phys. Lett., 120, 243901 (2022)_</a>, **A. Srivastava**, M. Mukherjee, and A. K. Singh
+1. Recent advances in designing thermoelectric materials, <a href="https://doi.org/10.1039/D2TC02448A/">_J. Mater. Chem. C, 10, 12524-12555 (2022)_</a>, M. Mukherjee, **A. Srivastava**, and A. K. Singh
+2. Decoupled atomic contribution boosted high thermoelectric performance in mixed cation spinel oxides ACo<sub>2</sub>O<sub>4</sub>, <a href="https://doi.org/10.1063/5.0099452/">_Appl. Phys. Lett., 120, 243901 (2022)_</a>, **A. Srivastava**, M. Mukherjee, and A. K. Singh
 ### Languages and Tools:
 <!--
 **ashutoshsriv/ashutoshsriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
