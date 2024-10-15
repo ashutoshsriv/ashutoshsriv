@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on the **first-principles study of electronic and thermal transport**.
 - 🌱 I’m currently learning **High-throughput and Machine learning approaches for materials discovery**.
 - 👯 I extensively collaborate with experimentalists and theorists to **develop a deeper understanding of phononic heat transport**.   
-- ⚡ Fun fact:
+- ⚡ Fun fact: **Materials are everywhere you just need to look around**.
 <!--
 **ashutoshsriv/ashutoshsriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
