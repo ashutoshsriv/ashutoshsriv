@@ -9,7 +9,8 @@
 
 ## Blog posts
 Checkout latest updates- https://ashutoshsrivastava98.wixsite.com/ashutosh-srivastava/blog 
-### Connect with me:
+### Research Publications:
+
 ### Languages and Tools:
 <!--
 **ashutoshsriv/ashutoshsriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
