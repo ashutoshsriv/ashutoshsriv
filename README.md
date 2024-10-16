@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=shibu778&label=Profile%20views&color=bd93f9&style=for-the-badge" alt="ashutoshsriv" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ashutoshsriv&label=Profile%20views&color=bd93f9&style=for-the-badge" alt="ashutoshsriv" /> </p>
 
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Ashutosh+Srivastava+)](https://git.io/typing-svg)
