@@ -9,8 +9,8 @@
 - 👯 I extensively collaborate with experimentalists and theorists to **develop a deeper understanding of phononic heat transport**.   
 - ⚡ Fun fact: **Materials are everywhere; you just need to look around**.
 
-## Blog posts
-Checkout latest updates- https://ashutoshsrivastava98.wixsite.com/ashutosh-srivastava/blog 
+### Blog posts
+Checkout latest- <a href="https://ashutoshsrivastava98.wixsite.com/ashutosh-srivastava/blog">_updates and news_</a>
 ### Important Research Publications:
 1. Role of phonon scattering and bonding in resolving lattice thermal conductivity ambiguities of β-Ga<sub>2</sub>O<sub>3</sub>, <a href="https://doi.org/10.1039/D4DT02033B">_Dalton Trans., 53, 16023-16029 (2024)_</a>, **A. Srivastava**, M. Mukherjee, and A. K. Singh
 5. Strong Anharmonicity-Induced Low Thermal Conductivity and High n-type Mobility in Topological Insulator Bi<sub>1.1</sub>Sb<sub>0.9</sub>Te<sub>2</sub>S, <a href="https://doi.org/10.1002/anie.202210783">_Angew. Chem. Int. Ed., 61, e202210783 (2022)_</a>, R. Pathak, P. Dutta, **A. Srivastava**, D. Rawat, R. K. Gopal, A. K. Singh, A. Soni, and K. Biswas
